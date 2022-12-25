@@ -1,0 +1,11 @@
+[package]
+name = "netcat"
+version = "0.0.0"
+authors = ["hzqd <hzqelf@yeah.net>"]
+edition = "2021"
+description = "Generally used for proxy"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
