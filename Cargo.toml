@@ -1,5 +1,5 @@
 [package]
-name = "netcat"
+name = "ncat"
 version = "0.0.0"
 authors = ["hzqd <hzqelf@yeah.net>"]
 edition = "2021"
